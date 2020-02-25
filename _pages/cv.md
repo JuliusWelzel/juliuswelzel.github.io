@@ -19,43 +19,40 @@ Education
 
 Work experience
 ======
-* Autum 2017: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 06/2019-today: Research Assistant
+  * University Kiel
+  * Deparment of Neurology
+  * Supervisors: Prof. Dr. Walter Maetzler & Prof. Dr. Günther Deuschl
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 08/2017-04/2019: Research Assistant
+  * University Oldenburg
+  * Brain Function Maintenance Recovery Group
+  * Supervisor: Dr. Cornelia Kranczioch
+
+Teaching Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 10/2017-07/2018: Tutor
+  * University Oldenburg
+  * Experimental Psychology Lab  
+  * psy241 - Computational Neuroscience
+* 02/2017-10/2017: Tutor
+  * University Oldenburg
+  * Applied Neurocognitive Psychology Lab  
+  * psy220 - HCI and BCI in practice
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
