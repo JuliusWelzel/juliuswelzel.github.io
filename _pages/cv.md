@@ -11,13 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Clinical Neurocognition, University Kiel, 2022 (expected)
+* M.Sc. in Neurocognitive Psychology, University Oldenburg, 2019
+* B.Sc. in Psychology, University Mainz, 2016
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Autum 2017: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
