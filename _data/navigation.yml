@@ -2,13 +2,10 @@
 main:
   - title: "Publications"
     url: /publications/   
-    
   - title: "Conference contributions"
-     url: /conferencese/
-
+    url: /conferencese/
   - title: "Teaching"
     url: /teaching/       
-    
   - title: "CV"
     url: /cv/
 
