@@ -1,0 +1,11 @@
+---
+title: "Individualization of motor imagery rehabilitative BCIs"
+collection: talks
+type: "Poster"
+permalink: /talks/2018cuttingEEG
+venue: "Institut du Cerveau et de la Moelle"
+date: 2018-07-03
+location: "Paris, France"
+---
+
+EEG-based motor imagery (MI) brain-computer interface (BCI) can potentially be used to help the recovery of motor function following a stroke. By imagining a previously learned movement, improvements of neurophysiological motor pattern were shown in many occasions. In a new paradigm, the usually simple movement of MI research was replaced by a more complex, every-day relevant movement to improve the understanding of motor learning patterns in the brain. To review neurophysiological structures of movement and improve BCI classification, we addressed some typical BCI problems in this study. Using frequency band (FB) specific spatial filtering with common spatial pattern (CSP) for a more detailed and individual approach. Our main motivations were to find individual best frequency band to train a BCI setup and improve classification of MI trials.
